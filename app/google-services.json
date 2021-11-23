@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667148723900",
+    "project_id": "test-assignment-randomizer",
+    "storage_bucket": "test-assignment-randomizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667148723900:android:209418947eb197bf5c92b9",
+        "android_client_info": {
+          "package_name": "com.example.testassignmentrandomizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667148723900-cg2qkuksfr9vg07t0nbefge2o9orqrbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA80VU7U-Vyg3obxUFAfnrsKfgL2eE6Ing"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667148723900-cg2qkuksfr9vg07t0nbefge2o9orqrbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
